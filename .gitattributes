@@ -1,0 +1,5 @@
+# auto-detect text files and normalize them to LF in the repo
+* text=auto
+
+# force all SVGs to use LF in both repo and working copy
+*.svg text eol=lf
